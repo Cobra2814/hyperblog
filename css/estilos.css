@@ -50,4 +50,17 @@ body
 {
     background: white;
     padding: 1em;
+<<<<<<< HEAD
+=======
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+    
+    
+>>>>>>> 744efb620819273c24a2a3656c9397abf5bd5c31
 }
